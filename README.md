@@ -31,7 +31,20 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 ### Publico objetivo:
 [![Abogabot-Publico-Objetivo.png](https://i.postimg.cc/d3w8qqfx/Abogabot-Publico-Objetivo.png)](https://postimg.cc/k6YVsdqQ)
 ### UX:
+Interacción propuesta https://ninjamock.com/s/265Q3Jx
 #### Flujo creacion demanda:
-- https://ninjamock.com/s/265Q3Jx
+[![signup.png](https://i.postimg.cc/tgMdjRwx/signup.png)](https://postimg.cc/hJVQ8nSD)
+[![home.png](https://i.postimg.cc/Hx8wsD1P/home.png)](https://postimg.cc/2bmb2t64)
+[![form.png](https://i.postimg.cc/FHGgTVxG/form.png)](https://postimg.cc/87J65W9r)
+[![checkout.png](https://i.postimg.cc/Mpzm0F1v/checkout.png)](https://postimg.cc/BXwF4NY0)
+[![confirmation.png](https://i.postimg.cc/TYVcD6Lz/confirmation.png)](https://postimg.cc/YhSF5TxR)
+#### Dashboard de pagos:
+[![dashboard.png](https://i.postimg.cc/brJsN1nY/dashboard.png)](https://postimg.cc/xJw06JgB)
 ### UI:
-- 
+Diseño propuesto https://www.figma.com/file/378yzqGtMePQFBvG0glg6N/Abogabot?node-id=9%3A5670
+#### Flujo creacion demanda:
+[![homeUI.png](https://i.postimg.cc/76jZ1Zqd/homeUI.png)](https://postimg.cc/Q9kDhs9J)
+[![formUI.png](https://i.postimg.cc/3wJNYqLS/formUI.png)](https://postimg.cc/gxQmKgb8)
+[![checkout-UI.png](https://i.postimg.cc/Zq7RRL2T/checkout-UI.png)](https://postimg.cc/p9jxcKP7)
+#### Dashboard de pagos:
+[![dashboard-UI.png](https://i.postimg.cc/ydDNSZC0/dashboard-UI.png)](https://postimg.cc/bDjP7dJv)
