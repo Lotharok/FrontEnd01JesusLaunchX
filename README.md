@@ -30,4 +30,8 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 [![Abogabot-Buyer-Persona.png](https://i.postimg.cc/k4xQ3VTS/Abogabot-Buyer-Persona.png)](https://postimg.cc/Kk8ktYSc)
 ### Publico objetivo:
 [![Abogabot-Publico-Objetivo.png](https://i.postimg.cc/d3w8qqfx/Abogabot-Publico-Objetivo.png)](https://postimg.cc/k6YVsdqQ)
-### Wireframe UX:
+### UX:
+#### Flujo creacion demanda:
+- https://ninjamock.com/s/265Q3Jx
+### UI:
+- 
